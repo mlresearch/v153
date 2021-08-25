@@ -1,0 +1,94 @@
+---
+booktitle: Proceedings of the Fifteenth International Conference on Grammatical Inference
+shortname: ICGI
+year: '2021'
+volume: '153'
+start: 2021-08-23
+end: 2021-08-27
+published: 2021-08-25
+conference_number: '15'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: icgi15
+month: 0
+cycles: false
+bibtex_editor: Chandlee, Jane and Eyraud, R\'emi and Heinz, Jeff and Jardine, Adam
+  and van Zaanen, Menno
+editor:
+- given: Jane
+  family: Chandlee
+- given: Rémi
+  family: Eyraud
+- given: Jeff
+  family: Heinz
+- given: Adam
+  family: Jardine
+- given: Menno
+  family: Zaanen
+  prefix: van
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fifteenth International Conference on Grammatical Inference
+    Held in Conducted online on 23-27 August 2021
+
+  Published as Volume 153 by the Proceedings of Machine Learning Research on 25 August 2021.
+
+  Volume Edited by:
+    Jane Chandlee
+    Rémi Eyraud
+    Jeff Heinz
+    Adam Jardine
+    Menno van Zaanen
+
+  Series Editors:
+    Neil D. Lawrence
+    * Mark Reid
+date_str: 23--27 Aug
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v153"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v153
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v153
+email: ''
+conference:
+  name: International Conference on Grammatical Inference
+  url: https://icgi2020.lis-lab.fr/
+  location: Conducted online
+  dates:
+  - 2021-08-23
+  - 2021-08-24
+  - 2021-08-25
+  - 2021-08-26
+  - 2021-08-27
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v153/icgi15.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v153/icgi15.bib
